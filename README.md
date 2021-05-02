@@ -48,6 +48,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ### Databases
 
 - [IT KPI - Databases](https://t.me/itkpi_db) - **Telegram** - Чат IT KPI для обговорень баз даних.
+- [PostgreSQL Ukraine](https://t.me/PostgresUkraine) - **Telegram** - Спільнота PostgreSQL в Україні. Група для підтримки і спілкування.
 
 ### Data Sceince (+ AI, ML)
 
