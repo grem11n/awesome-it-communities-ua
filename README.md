@@ -1,3 +1,4 @@
+<!--lint disable awesome-git-repo-age-->
 # Awesome Ukrainian IT Communities [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ---
 
