@@ -19,7 +19,7 @@ Please, follow simple rules before submitting a PR:
 11. If you use a text editor to fashion the pull request, make sure your text editor is set to remove trailing whitespace.
 12. New categories, or improvements to the existing categorization, are welcome.
 13. Keep descriptions short, sweet and to the point.
-14. Use the following format: `[Name](link) - Description. [LANG]`, where lang is a list of languages that are commonly used in your community keep the length of the name + description under 280 characters
+14. Use the following format: `[Name](link) - <Platform> - Description. [LANG]`, where `platform` describes where your community is hosted e.g. Telegram, Slack, Facebook, Website, etc. And `lang` is a list of languages that are commonly used in your community keep the length of the name + description under 280 characters
 
 ## Dead Link Policy
 
