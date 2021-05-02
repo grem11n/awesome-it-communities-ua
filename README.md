@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/feaeeba0-992b-4620-9d94-fef408b78b48/deploy-status)](https://app.netlify.com/sites/elegant-varahamihira-a845b3/deploys)
 [![CI](https://github.com/grem11n/awesome-it-communities-ua/actions/workflows/main.yml/badge.svg)](https://github.com/grem11n/awesome-it-communities-ua/actions/workflows/main.yml)
 
-A curated list of awesome Ukrainian IT communities, news portals, Telegram groups, and more.
+A curated list of awesome Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.
 
 Keep in mind that each community has its own rules, please, respect them when you join.
 
