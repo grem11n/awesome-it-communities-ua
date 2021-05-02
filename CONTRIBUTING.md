@@ -11,15 +11,15 @@ Please, follow simple rules before submitting a PR:
 3. Community can be a Slack or Telgram group, Web forum, YouTube channel, basically everything where people can communicate with each other. Please, do not put links to read-only blogs or Telegram channels here.
 4. Community should be active.
 5. Check if a community isn't already in the list. It might be a duplicate. The rule of thumb here is to submit a community only if you run it.
-6. Check if the link is working and pointing to the right location.
-7. Check your spelling and grammar.
-8. Choose the appropriate corresponding section.
-9. The list, after your addition, should be sorted alphabetically.
-10. Make an individual pull request for each suggestion.
-11. If you use a text editor to fashion the pull request, make sure your text editor is set to remove trailing whitespace.
-12. New categories, or improvements to the existing categorization, are welcome.
-13. Keep descriptions short, sweet and to the point.
-14. Use the following format: `[Name](link) - <Platform> - Description. [LANG]`, where `platform` describes where your community is hosted e.g. Telegram, Slack, Facebook, Website, etc. And `lang` is a list of languages that are commonly used in your community keep the length of the name + description under 280 characters
+6. Use the following format: `[Name](link) - **Platform** - Description.`, where `Platform` describes where your community is hosted e.g. Telegram, Slack, Facebook, Website, etc. Keep the length of the name + description under 280 characters
+7. Check if the link is working and pointing to the right location.
+8. Check your spelling and grammar.
+9. Choose the appropriate corresponding section.
+10. The list, after your addition, should be sorted alphabetically.
+11. Make an individual pull request for each suggestion.
+12. If you use a text editor to fashion the pull request, make sure your text editor is set to remove trailing whitespace.
+13. New categories, or improvements to the existing categorization, are welcome.
+14. Keep descriptions short, sweet and to the point.
 
 ## Dead Link Policy
 
