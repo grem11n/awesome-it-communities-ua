@@ -1,0 +1,20 @@
+site_name: Awesome Ukrainian IT Communities
+site_url: https://awesome-it.in.ua
+site_description: A curated list of awesome Ukrainian IT communities
+site_author: Yurii Rochniak
+repo_name: grem11n/awesome-it-communities-ua
+repo_url: https://github.com/grem11n/awesome-it-communities-ua
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/grem11n/awesome-it-communities-ua
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/grem11n
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/yrochnyak/
