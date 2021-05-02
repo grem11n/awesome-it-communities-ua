@@ -16,7 +16,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
   - [IT in General](#it-in-general)
   - [Backend](#backend)
   - [Databases](#databases)
-  - [Data Sceince (+ AI, ML)](#data-sceince--ai-ml)
+  - [Data Science (+ AI, ML)](#data-science--ai-ml)
   - [Design](#design)
   - [DevOps](#devops)
   - [Frontend](#frontend)
