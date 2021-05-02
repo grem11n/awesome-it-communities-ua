@@ -16,7 +16,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
   - [IT in General](#it-in-general)
   - [Backend](#backend)
   - [Databases](#databases)
-  - [Data Sceince (+ AI, ML)](#data-sceince--ai-ml)
+  - [Data Science (+ AI, ML)](#data-science--ai-ml)
   - [Design](#design)
   - [DevOps](#devops)
   - [Frontend](#frontend)
@@ -50,7 +50,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI - Databases](https://t.me/itkpi_db) - **Telegram** - Чат IT KPI для обговорень баз даних.
 - [PostgreSQL Ukraine](https://t.me/PostgresUkraine) - **Telegram** - Спільнота PostgreSQL в Україні. Група для підтримки і спілкування.
 
-### Data Sceince (+ AI, ML)
+### Data Science (+ AI, ML)
 
 - [IT KPI DS/AI/ML](https://t.me/itkpi_ds) - **Telegram** - Чат IT KPI обговорення Data Science, AI, ML, нейронаук.
 - [ІТ КПІ - Scala](https://t.me/itkpi_scala) - **Telegram** - Чат ІТ KPI про Scala та ML.
