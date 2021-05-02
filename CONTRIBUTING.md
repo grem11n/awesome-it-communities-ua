@@ -8,7 +8,7 @@ Please, follow simple rules before submitting a PR:
 
 1. Communities should originate from Ukraine or be related to Ukraine.
 2. Ukrainian language is welcome and well-understood inside a community.
-3. Community can be a Slack or Telgram group, Web forum, YouTube channel, basically everything where people can communicate with each other. Please, do not put links to read-only blogs here.
+3. Community can be a Slack or Telgram group, Web forum, YouTube channel, basically everything where people can communicate with each other. Please, do not put links to read-only blogs or Telegram channels here.
 4. Community should be active.
 5. Check if a community isn't already in the list. It might be a duplicate. The rule of thumb here is to submit a community only if you run it.
 6. Check if the link is working and pointing to the right location.
