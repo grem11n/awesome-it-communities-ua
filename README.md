@@ -1,6 +1,5 @@
 <!--lint disable awesome-git-repo-age-->
 # Awesome Ukrainian IT Communities [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
----
 
 A curated list of awesome Ukrainian IT communities, news portals, Telegram groups, and more.
 
