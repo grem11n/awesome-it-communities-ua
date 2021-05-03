@@ -44,6 +44,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI PHP](https://t.me/itkpi_php) - **Telegram** - Чат ІТ KPI про PHP.
 - [IT KPI Rust](https://t.me/itkpi_rust) - **Telegram** - Чат ІТ KPI про Rust.
 - [IT KPI – Python](https://t.me/itkpi_python) - **Telegram** - Чат IT KPI обговорень про всякі штуки зі світу пайтону.
+- [PHP Friends Club Ukraine Chat](https://t.me/phpfriendsclub_chat) - **Telegram** - Чат про PHP та Web розробку.
 
 ### Databases
 
