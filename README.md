@@ -85,6 +85,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ### Open Source
 
 - [IT KPI Open Source](https://t.me/itkpi_open_source) - **Telegram** - Чат ІТ KPI про розробку відкритого ПЗ.
+- [OWASP Kyiv](https://www.facebook.com/owaspkyiv) - **Facebook** - Open Web Application Security Project: Kyiv chapter
 
 ### QA/QC
 
