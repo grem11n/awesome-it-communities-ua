@@ -31,7 +31,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ### IT in General
 
-- [Codeguida](https://codeguida.com/) - **Website** - Програмування та останні новини технологій.
 - [DOU](https://dou.ua/) - **Website** - Developers Org UA. Informational portal, news, blogs, forum, podcast, and more.
 - [IT KPI Chat](https://t.me/itkpi_flood) - **Telegram** - Чат найбільшої студенстської IT-спільноти України.
 - [IT KPI Non Tech](https://t.me/itkpi_non_tech) - **Telegram** - IT KPI, нетехнічний чат, проджект/продакт менеджери, бізнес аналітики, HR та рекрутери.
