@@ -24,3 +24,5 @@ Please, follow simple rules before submitting a PR:
 ## Dead Link Policy
 
 We check all links are valid with the awesome [awesome_bot](https://github.com/dkhamsing/awesome_bot). If links die, we remove them - this saves time for the maintainers, and ensures awesome links. We'd be happy to accept PRs to re-add new links.
+
+Thanks to all [contributors](https://github.com/grem11n/awesome-it-communities-ua/graphs/contributors), you're awesome and this list wouldn't be possible without you!
