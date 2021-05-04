@@ -33,6 +33,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [DOU](https://dou.ua/) - **Website** - Developers Org UA. Informational portal, news, blogs, forum, podcast, and more.
 - [FAANG Interview](https://t.me/FaangInterview) - **Telegram** - Это украинская группа по подготовке к интервью. Цель: обсуждение вопросов по подготовке, истории c интервью, ресурсы для подготовки.
+- [FAANG Tech Interview](https://t.me/FaangTechInterview) - **Telegram** - Это украинская группа-спутник FAANG Interview. Цель группы: обсуждение алгоритмических задач.
 - [IT KPI Chat](https://t.me/itkpi_flood) - **Telegram** - Чат найбільшої студенстської IT-спільноти України.
 - [IT KPI Non Tech](https://t.me/itkpi_non_tech) - **Telegram** - IT KPI, нетехнічний чат, проджект/продакт менеджери, бізнес аналітики, HR та рекрутери.
 
