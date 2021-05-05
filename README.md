@@ -67,6 +67,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [CatOps Chat](https://t.me/catops_chat) - **Telegram** - Discussions group of CatOps news channel with bi-weekly voice rooms.
 - [IT KPI - DevOps](https://t.me/itkpi_devops) - **Telegram** - Чат ІТ KPI про DevOps і Лінукс.
 - [UkrOps](https://ukrops.club/) - **Slack** - Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.
+- [UAFUG](https://groups.google.com/g/uafug) - **GoogleGroups** - Ukrainian FreeBSD User Group.
 - [K8s DevOps chat - Ukraine](https://t.me/k8sdevopsUA) - **Telegram** - Чат обговорення Kubernetes.
 
 ### Frontend
