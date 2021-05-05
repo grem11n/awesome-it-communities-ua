@@ -32,6 +32,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ### IT in General
 
 - [DOU](https://dou.ua/) - **Website** - Developers Org UA. Informational portal, news, blogs, forum, podcast, and more.
+- [FAANG Interview](https://t.me/FaangInterview) - **Telegram** - Это украинская группа по подготовке к интервью. Цель: обсуждение вопросов по подготовке, истории c интервью, ресурсы для подготовки.
+- [FAANG Tech Interview](https://t.me/FaangTechInterview) - **Telegram** - Это украинская группа-спутник FAANG Interview. Цель группы: обсуждение алгоритмических задач.
 - [IT KPI Chat](https://t.me/itkpi_flood) - **Telegram** - Чат найбільшої студенстської IT-спільноти України.
 - [IT KPI Non Tech](https://t.me/itkpi_non_tech) - **Telegram** - IT KPI, нетехнічний чат, проджект/продакт менеджери, бізнес аналітики, HR та рекрутери.
 
@@ -65,11 +67,15 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [CatOps Chat](https://t.me/catops_chat) - **Telegram** - Discussions group of CatOps news channel with bi-weekly voice rooms.
 - [IT KPI - DevOps](https://t.me/itkpi_devops) - **Telegram** - Чат ІТ KPI про DevOps і Лінукс.
 - [UkrOps](https://ukrops.club/) - **Slack** - Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.
+- [UAFUG](https://groups.google.com/g/uafug) - **GoogleGroups** - Ukrainian FreeBSD User Group.
+- [K8s DevOps chat - Ukraine](https://t.me/k8sdevopsUA) - **Telegram** - Чат обговорення Kubernetes.
 
 ### Frontend
 
+- [Art Flutter](https://t.me/artflutter) - **Telegram** - Ukrainian community of Flutter enthusiasts.
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
 - [IT KPI Dart](https://t.me/dart_itkpi) - **Telegram** - Чат ІТ KPI про Dart.
+- [React Kyiv](https://t.me/reactkyiv) - **Telegram** - Чат для спілкування React розробників.
 
 ### Hardware & Embedded
 
@@ -85,7 +91,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ### Open Source
 
 - [IT KPI Open Source](https://t.me/itkpi_open_source) - **Telegram** - Чат ІТ KPI про розробку відкритого ПЗ.
-- [OWASP Kyiv](https://www.facebook.com/owaspkyiv) - **Facebook** - Open Web Application Security Project: Kyiv chapter
+- [OWASP Kyiv](https://www.facebook.com/owaspkyiv) - **Facebook** - Open Web Application Security Project: Kyiv chapter.
+- [OSDN Kyiv](https://www.facebook.com/osdn.kiev) - **Facebook** - Open Source Developer Network: Київська конференція.
 
 ### QA/QC
 
