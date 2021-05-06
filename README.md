@@ -70,7 +70,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Frontend
 
-- [Art Flutter](https://t.me/artflutter) - **Telegram** - Ukrainian community of Flutter enthusiasts.
 - [IT KPI Dart](https://t.me/dart_itkpi) - **Telegram** - Чат ІТ KPI про Dart.
 - [React Kyiv](https://t.me/reactkyiv) - **Telegram** - Чат для спілкування React розробників.
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
@@ -83,6 +82,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Mobile
 
+- [Art Flutter](https://t.me/artflutter) - **Telegram** - Ukrainian community of Flutter enthusiasts.
 - [IT KPI Эпол](https://t.me/itkpi_ios) - **Telegram** - Чат ІТ KPI, розробка під іOS і технології Apple.
 - [ITKPI - Android](https://t.me/itkpi_android) - **Telegram** - Чат ІТ KPI, розробка під Android.
 
