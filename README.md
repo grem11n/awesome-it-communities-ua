@@ -49,6 +49,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [IT KPI - Databases](https://t.me/itkpi_db) - **Telegram** - Чат IT KPI для обговорень баз даних.
 - [PostgreSQL Ukraine](https://t.me/PostgresUkraine) - **Telegram** - Спільнота PostgreSQL в Україні. Група для підтримки і спілкування.
+- [UDCK (Ukrainian Data Community Kyiv)](https://www.facebook.com/groups/kssug/) - **Facebook** - Ukrainian Data Community Kyiv (former Kyiv SQL Server User Group).
 
 ## Data Science (+ AI, ML)
 
