@@ -1,4 +1,3 @@
-<!--lint disable awesome-git-repo-age-->
 # Awesome Ukrainian IT Communities [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/feaeeba0-992b-4620-9d94-fef408b78b48/deploy-status)](https://app.netlify.com/sites/elegant-varahamihira-a845b3/deploys)
