@@ -96,3 +96,5 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## QA/QC
 
 - [IT KPI - QA](https://t.me/itkpi_qa) - **Telegram** - Чат ІТ KPI про Quality Assurance, Quality Control.
+- [JavaScript testing](https://t.me/js_for_testing) - **Telegram** - Ukrainian community of JS testers.
+
