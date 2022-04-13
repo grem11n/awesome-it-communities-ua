@@ -41,6 +41,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [PyCON](https://www.meetup.com/uapycon/) - **Website** - Ukrainian Python User Groups.
 - [UAGolang](https://www.meetup.com/uagolang/) - **Website** - Ukrainian Golang User Groups.
 - [Lviv Python Community](https://t.me/lviv_python_community) - **Telegram** - Lviv Python Community. Група для обговорення та поширення досвіду.
+- [CoffeeJUG](https://www.coffeejug.org/) - **Website** - Java User Group у Львові. Організовують офлайн та онлайн події.
+- [Java Lviv](https://www.facebook.com/groups/jug.lviv/) - **Facebook** - Facebook-спільнота Java розробників.
 
 ## Databases
 
@@ -57,6 +59,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## Design
 
 - [ІТ КПІ - Design](https://t.me/itkpi_design) - **Telegram** - Чат ІТ KPI про дизайн.
+- [Design Lviv](https://www.facebook.com/groups/272786659415583) - **Facebook** - Facebook-спільнота дизайнерів.
 
 ## DevOps
 
