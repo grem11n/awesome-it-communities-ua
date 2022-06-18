@@ -43,6 +43,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Lviv Python Community](https://t.me/lviv_python_community) - **Telegram** - Lviv Python Community. Група для обговорення та поширення досвіду.
 - [CoffeeJUG](https://www.coffeejug.org/) - **Website** - Java User Group у Львові. Організовують офлайн та онлайн події.
 - [Java Lviv](https://www.facebook.com/groups/jug.lviv/) - **Facebook** - Facebook-спільнота Java розробників.
+- [Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram чат української спільноти Scala розробників.
 
 ## Databases
 
