@@ -100,3 +100,11 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI - QA](https://t.me/itkpi_qa) - **Telegram** - Чат ІТ KPI про Quality Assurance, Quality Control.
 - [JavaScript testing](https://t.me/js_for_testing) - **Telegram** - Ukrainian community of JS testers.
 
+## Blockchain
+
+- [Near Protocol UA Guild](https://t.me/nearprotocolua) - **Telegram** - Українська Near Protocol спільнота, вивчаємо разом Нір, беремо участь у хакатонах, робимо опенсорс та розвиваємо екосистему!
+
+## FullStack
+
+- [TeaJS Ukraine](https://t.me/teajsukraine) - **Telegram** - JS - суспільство небайдужих крутих людей!
+
