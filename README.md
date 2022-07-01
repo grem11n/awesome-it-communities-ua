@@ -44,6 +44,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [CoffeeJUG](https://www.coffeejug.org/) - **Website** - Java User Group у Львові. Організовують офлайн та онлайн події.
 - [Java Lviv](https://www.facebook.com/groups/jug.lviv/) - **Facebook** - Facebook-спільнота Java розробників.
 - [Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram чат української спільноти Scala розробників.
+- [Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram чат української Terraform спільноти.
+- [NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram чат української спільноти NestJS розробників.
 
 ## Databases
 
