@@ -19,6 +19,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Mobile](#mobile)
 - [Open Source](#open-source)
 - [QA/QC](#qaqc)
+- [Blockchain](#blockchain)
+- [Fullstack](#fullstack)
 
 ## IT in General
 
@@ -104,7 +106,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [Near Protocol UA Guild](https://t.me/nearprotocolua) - **Telegram** - Українська Near Protocol спільнота, вивчаємо разом Нір, беремо участь у хакатонах, робимо опенсорс та розвиваємо екосистему!
 
-## FullStack
+## Fullstack
 
 - [TeaJS Ukraine](https://t.me/teajsukraine) - **Telegram** - JS - суспільство небайдужих крутих людей!
 
