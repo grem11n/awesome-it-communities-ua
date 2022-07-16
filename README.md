@@ -38,6 +38,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI Java](https://t.me/itkpi_java) - **Telegram** - Чат IT KPI для розробників на базі Java.
 - [IT KPI PHP](https://t.me/itkpi_php) - **Telegram** - Чат ІТ KPI про PHP.
 - [IT KPI Rust](https://t.me/itkpi_rust) - **Telegram** - Чат ІТ KPI про Rust.
+- [Вивчаємо Rust Разом 🇺🇦](https://t.me/rustlang_ua) - **Telegram** - 🦀 Українська гілка спільноти Rust ентузіастів 💙💛.
 - [IT KPI – Python](https://t.me/itkpi_python) - **Telegram** - Чат IT KPI обговорень про всякі штуки зі світу пайтону.
 - [PHP Friends Club Ukraine Chat](https://t.me/phpfriendsclub_chat) - **Telegram** - Чат про PHP та Web розробку.
 - [PyCON](https://www.meetup.com/uapycon/) - **Website** - Ukrainian Python User Groups.
