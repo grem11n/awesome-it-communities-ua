@@ -14,6 +14,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Data Science (+ AI, ML)](#data-science--ai-ml)
 - [Design](#design)
 - [DevOps](#devops)
+- [Operating system](#operating-system)
 - [Frontend](#frontend)
 - [Hardware & Embedded](#hardware--embedded)
 - [Mobile](#mobile)
@@ -32,6 +33,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Backend
 
+- [C/C++ UA](https://t.me/cppua) - **Telegram** - Чат про С/С++.
 - [.NET Chat](https://t.me/dotnet_chat) - **Telegram (RUS, UKR)** - Обсуждение вопросов по C# / .NET.
 - [IT KPI C/C++](https://t.me/itkpi_cpp) - **Telegram** - Чат IT KPI для обсуждения С/С++.
 - [IT KPI Go](https://t.me/itkpi_go) - **Telegram** - Чат IT KPI для розробників на базі Go.
@@ -75,6 +77,10 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [K8s DevOps chat - Ukraine](https://t.me/k8sdevopsUA) - **Telegram** - Чат обговорення Kubernetes.
 - [UAFUG](https://groups.google.com/g/uafug) - **GoogleGroups** - Ukrainian FreeBSD User Group.
 - [UkrOps](https://ukrops.club/) - **Slack** - Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.
+
+## Operating system
+
+- [LINUX UA](https://t.me/linuzua) - **Telegram** - Чат про лінукс.
 
 ## Frontend
 
