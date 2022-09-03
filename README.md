@@ -89,7 +89,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
 
 ## Hardware & Embedded
-
+- [Electronics UA](https://t.me/electronicsua) - **Telegram** - Чат про електроніку.
 - [IT KPI Assembler & Reverse Engineering](https://t.me/itkpi_reveng) - **Telegram** - Чат ІТ KPI про реверс-інжинірінг софту і заліза.
 - [IT КПІ - 3D Print](https://t.me/itkpi_3dprint) - **Telegram** - Чат ІТ KPI; візуалізуємо розробки в пластику та радимось щодо філламенту.
 - [ІТ КПІ - Embedded](https://t.me/itkpi_embedded) - **Telegram** - Чат ІТ KPI для тих, хто працює з залізом та вбудованими рішеннями.
