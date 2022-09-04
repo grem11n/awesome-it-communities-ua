@@ -81,7 +81,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI Dart](https://t.me/dart_itkpi) - **Telegram** - Чат ІТ KPI про Dart.
 - [React Kyiv](https://t.me/reactkyiv) - **Telegram** - Чат для спілкування React розробників.
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
-- [NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - **Telegram** - Чат по Javascript та Node.js, чат спільноти Metarhia.
+- [NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - **Telegram** - Чат по JavaScript та Node.js, чат спільноти Metarhia.
 
 ## Hardware & Embedded
 
