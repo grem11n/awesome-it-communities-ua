@@ -43,6 +43,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [PHP Friends Club Ukraine Chat](https://t.me/phpfriendsclub_chat) - **Telegram** - Чат про PHP та Web розробку.
 - [PyCON](https://www.meetup.com/uapycon/) - **Website** - Ukrainian Python User Groups.
 - [UAGolang](https://www.meetup.com/uagolang/) - **Website** - Ukrainian Golang User Groups.
+- [Laravel UA](https://t.me/laravel_ua) - **Telegram** - Спільнота про Laravel Framework, його складові та додатки.
 - [Lviv Python Community](https://t.me/lviv_python_community) - **Telegram** - Lviv Python Community. Група для обговорення та поширення досвіду.
 - [CoffeeJUG](https://www.coffeejug.org/) - **Website** - Java User Group у Львові. Організовують офлайн та онлайн події.
 - [Java Lviv](https://www.facebook.com/groups/jug.lviv/) - **Facebook** - Facebook-спільнота Java розробників.
