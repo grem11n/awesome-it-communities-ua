@@ -73,7 +73,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [CatOps Chat](https://t.me/catops_chat) - **Telegram** - Discussions group of CatOps news channel with bi-weekly voice rooms.
 - [HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - **MeetUp** - This group is a place to meet other developers and ops engineers using HashiCorp tools.
 - [IT KPI - DevOps](https://t.me/itkpi_devops) - **Telegram** - Чат ІТ KPI про DevOps і Лінукс.
-- [K8s DevOps chat - Ukraine](https://t.me/k8sdevopsUA) - **Telegram** - Чат обговорення Kubernetes.
 - [UAFUG](https://groups.google.com/g/uafug) - **GoogleGroups** - Ukrainian FreeBSD User Group.
 - [UkrOps](https://ukrops.club/) - **Slack** - Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.
 
