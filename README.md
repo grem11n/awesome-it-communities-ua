@@ -113,4 +113,5 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## Fullstack
 
 - [TeaJS Ukraine](https://t.me/teajsukraine) - **Telegram** - JS - суспільство небайдужих крутих людей!
+- [Ruby UA](https://t.me/ruby4you) - **Telegram** - група та чат з вивчення Ruby.
 
