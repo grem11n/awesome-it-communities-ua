@@ -51,7 +51,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Scala Ukraine Telegram](https://t.me/scala_ukraine) - **Telegram** - Чат української спільноти Scala розробників.
 - [Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - **Telegram** - Чат української Terraform спільноти.
 - [NestJS Ukraine Telegram](https://t.me/nest_ukraine) - **Telegram** - Чат української спільноти NestJS розробників.
-- [NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - **Telegram** - Чат по JavaScript та Node.js, чат спільноти Metarhia.
+- [GolangUA](https://t.me/golang_ua_official) - **Telegram** - Ця спільнота є одним з каналів зв'язку Golang community в Україні.
+
 
 ## Databases
 
