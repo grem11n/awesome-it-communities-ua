@@ -51,6 +51,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Scala Ukraine Telegram](https://t.me/scala_ukraine) - **Telegram** - Чат української спільноти Scala розробників.
 - [Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - **Telegram** - Чат української Terraform спільноти.
 - [NestJS Ukraine Telegram](https://t.me/nest_ukraine) - **Telegram** - Чат української спільноти NestJS розробників.
+- [GolangUA](https://t.me/golang_ua_official) - **Telegram** - Ця спільнота є одним з каналів зв'язку Golang community в Україні.
+
 
 ## Databases
 
@@ -83,6 +85,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [React Kyiv](https://t.me/reactkyiv) - **Telegram** - Чат для спілкування React розробників.
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
 - [NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - **Telegram** - Чат по JavaScript та Node.js, чат спільноти Metarhia.
+- [JavaScript.Ninja](https://t.me/javascript_ninja) - **Telegram** - Чат про JavaScript та Frontend розробку.
 
 ## Hardware & Embedded
 
@@ -114,4 +117,5 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## Fullstack
 
 - [TeaJS Ukraine](https://t.me/teajsukraine) - **Telegram** - JS - суспільство небайдужих крутих людей!
+- [Ruby UA](https://t.me/ruby4you) - **Telegram** - група та чат з вивчення Ruby.
 
