@@ -53,6 +53,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [NestJS Ukraine Telegram](https://t.me/nest_ukraine) - **Telegram** - Чат української спільноти NestJS розробників.
 - [GolangUA](https://t.me/golang_ua_official) - **Telegram** - Ця спільнота є одним з каналів зв'язку Golang community в Україні.
 
+
 ## Databases
 
 - [IT KPI - Databases](https://t.me/itkpi_db) - **Telegram** - Чат IT KPI для обговорень баз даних.
@@ -82,7 +83,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI Dart](https://t.me/dart_itkpi) - **Telegram** - Чат ІТ KPI про Dart.
 - [React Kyiv](https://t.me/reactkyiv) - **Telegram** - Чат для спілкування React розробників.
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
-- [NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - **Telegram** - Чат по JavaScript та Node.js, чат спільноти Metarhia.
 
 ## Hardware & Embedded
 
@@ -114,4 +114,5 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## Fullstack
 
 - [TeaJS Ukraine](https://t.me/teajsukraine) - **Telegram** - JS - суспільство небайдужих крутих людей!
+- [Ruby UA](https://t.me/ruby4you) - **Telegram** - група та чат з вивчення Ruby.
 
