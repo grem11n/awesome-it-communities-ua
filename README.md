@@ -38,6 +38,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## IT in General
 
 - [DOU](https://dou.ua/) - **Website** - Developers Org UA. Informational portal, news, blogs, forum, podcast, and more.
+- [DOU YouTube](https://www.youtube.com/@DOU_youtube) - **YouTube** - Канал DOU на YouTube.
 - [FAANG Interview](https://t.me/FaangInterview) - **Telegram** - Это украинская группа по подготовке к интервью. Цель: обсуждение вопросов по подготовке, истории c интервью, ресурсы для подготовки.
 - [FAANG Tech Interview](https://t.me/FaangTechInterview) - **Telegram** - Это украинская группа-спутник FAANG Interview. Цель группы: обсуждение алгоритмических задач.
 - [IT KPI Chat](https://t.me/itkpi_flood) - **Telegram** - Чат найбільшої студенстської IT-спільноти України.
@@ -103,6 +104,10 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [IT KPI - DevOps](https://t.me/itkpi_devops) - **Telegram** - Чат ІТ KPI про DevOps і Лінукс.
 - [UAFUG](https://groups.google.com/g/uafug) - **GoogleGroups** - Ukrainian FreeBSD User Group.
 - [UkrOps](https://ukrops.club/) - **Slack** - Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.
+- [Docker🐳/Kubernetes Українською](https://t.me/k8s_ua) - **Telegram** - Чат про Docker і Kubernetes.
+- [Sysadmin Tools](https://t.me/sysadmin_tools) - **Telegram** - Sysadmin/DevOps tools, news and other interesting things from modern IT world.
+- [Updates rtfm.co.ua](https://t.me/rtfmcoua) - **Telegram** - Канал про DevOps і українське IT в цілому.
+- [ДевОпс Інженер](https://t.me/devopsengineer) - **Telegram** - Канал про DevOps.
 
 ## Hardware & Embedded
 
