@@ -1,14 +1,23 @@
+![UA Banner](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo-ua.svg)
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 # Awesome Ukrainian IT Communities [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.
 
 Keep in mind that each community has its own rules, please, respect them when you join.
 
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/firefox.png" width="15" height="15" alt="website"/> [Visit our website](https://awesome-it.in.ua/)
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> [See on GitHub](https://github.com/grem11n/awesome-it-communities-ua)
+
 Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this list.
 
 ## Contents
 
 - [IT in General](#it-in-general)
+- [Programming Languages](#languages)
+
 - [Backend](#backend)
 - [Databases](#databases)
 - [Data Science (+ AI, ML)](#data-science--ai-ml)
@@ -118,3 +127,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [TeaJS Ukraine](https://t.me/teajsukraine) - **Telegram** - JS - суспільство небайдужих крутих людей!
 - [Ruby UA](https://t.me/ruby4you) - **Telegram** - група та чат з вивчення Ruby.
 
+
+---
+# Glory to Ukraine! 🇺
