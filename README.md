@@ -21,9 +21,9 @@ Keep in mind that each community has its own rules, please, respect them when yo
 
 Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this list.
 
-## Content
+## Contents
 
-- ⚙️ [IT in General](#it-in-general)
+- ⚙️  [IT in General](#it-in-general)
 - 🖥️ [Programming](#programming)
 - 📱 [Mobile](#mobile)
 - <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/database.png" width="20" height="20" alt="Databases"/> [Databases](#databases)
