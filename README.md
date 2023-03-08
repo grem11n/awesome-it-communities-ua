@@ -16,8 +16,8 @@ A curated list of awesome Ukrainian IT communities, news portals, Telegram group
 
 Keep in mind that each community has its own rules, please, respect them when you join.
 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/firefox.png" width="20" height="20" alt="website"/> [Visit our website](https://awesome-it.in.ua/)
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> [See on GitHub](https://github.com/grem11n/awesome-it-communities-ua)
+- <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/firefox.png" width="20" height="20" alt="website"/> [Visit our website](https://awesome-it.in.ua/)
+- <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> [See on GitHub](https://github.com/grem11n/awesome-it-communities-ua)
 
 Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this list.
 

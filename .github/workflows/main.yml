@@ -24,4 +24,4 @@ jobs:
       - name: Checks
         run: |
           gem install awesome_bot
-          awesome_bot README.md --allow-ssl --allow-redirect  -a 429 --white-list raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/
+          awesome_bot README.md --allow-ssl --allow-redirect  -a 429 --white-list github.com/buildkite/emojis/raw/main/img-buildkite-64,upload.wikimedia.org/wikipedia/commons
