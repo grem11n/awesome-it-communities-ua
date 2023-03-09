@@ -108,6 +108,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Sysadmin Tools](https://t.me/sysadmin_tools) - **Telegram** - Sysadmin/DevOps tools, news and other interesting things from modern IT world.
 - [Updates rtfm.co.ua](https://t.me/rtfmcoua) - **Telegram** - Канал про DevOps і українське IT в цілому.
 - [ДевОпс Інженер](https://t.me/devopsengineer) - **Telegram** - Канал про DevOps.
+- [DevOps DOU](https://t.me/devops_dou) - **Telegram** - Канал про DevOps від DOU.
 
 ## Hardware & Embedded
 
@@ -125,6 +126,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [IT KPI - QA](https://t.me/itkpi_qa) - **Telegram** - Чат ІТ KPI про Quality Assurance, Quality Control.
 - [JavaScript testing](https://t.me/js_for_testing) - **Telegram** - Ukrainian community of JS testers.
+- [DOU | QA](https://t.me/dou_qa) - **Telegram** - Все про тестування від QA-спільноти DOU.
 
 ## Blockchain
 
