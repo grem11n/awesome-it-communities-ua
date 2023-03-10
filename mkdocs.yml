@@ -7,6 +7,20 @@ repo_url: https://github.com/grem11n/awesome-it-communities-ua
 theme:
   name: material
   logo: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo-ua.svg
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.tabs.sticky
