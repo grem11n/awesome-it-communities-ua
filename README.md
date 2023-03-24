@@ -89,7 +89,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 ## Data Science (+ AI, ML)
 
 - [IT KPI DS/AI/ML](https://t.me/itkpi_ds) - **Telegram** - Чат IT KPI обговорення Data Science, AI, ML, нейронаук.
-- [Kyiv Data Science](https://t.me/kyivdatascience) - **Telegram** - Київське ком'юніті data scientist'ів.
 - [ІТ КПІ - Scala](https://t.me/itkpi_scala) - **Telegram** - Чат ІТ KPI про Scala та ML.
 
 ## Design
