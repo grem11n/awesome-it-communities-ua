@@ -73,6 +73,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [UAGolang](https://www.meetup.com/uagolang/) - **Website** - Ukrainian Golang User Groups.
 - [ІТ КПІ - JS](https://t.me/itkpi_js) - **Telegram** - Чат ІТ KPI для обговорення JS і Front-end.
 - [Вивчаємо Rust Разом 🇺🇦](https://t.me/rustlang_ua) - **Telegram** - 🦀 Українська гілка спільноти Rust ентузіастів 💙💛.
+- [Алгоритми | Algoua](https://algoua.com) - **Website** - Вивчення та обговорення алгоритмів.
 
 ## Mobile
 
