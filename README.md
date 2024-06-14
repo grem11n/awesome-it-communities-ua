@@ -102,7 +102,6 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - **MeetUp** - This group is a place to meet other developers and ops engineers using HashiCorp tools.
 - [IT KPI - DevOps](https://t.me/itkpi_devops) - **Telegram** - Чат ІТ KPI про DevOps і Лінукс.
 - [UAFUG](https://groups.google.com/g/uafug) - **GoogleGroups** - Ukrainian FreeBSD User Group.
-- [UkrOps](https://ukrops.club/) - **Slack** - Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.
 - [Docker🐳/Kubernetes Українською](https://t.me/k8s_ua) - **Telegram** - Чат про Docker і Kubernetes.
 - [Sysadmin Tools](https://t.me/sysadmin_tools) - **Telegram** - Sysadmin/DevOps tools, news and other interesting things from modern IT world.
 - [Updates rtfm.co.ua](https://t.me/rtfmcoua) - **Telegram** - Канал про DevOps і українське IT в цілому.
