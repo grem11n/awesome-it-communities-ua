@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo-ua.svg" alt="Awesome">
+		<img width="500" height="350" src="https://raw.githubusercontent.com/grem11n/awesome-it-communities-ua/main/media/logo-ua.svg" alt="Awesome">
 		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
 	</a>
     <div>
