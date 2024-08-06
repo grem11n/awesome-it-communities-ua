@@ -39,24 +39,23 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [DOU](https://dou.ua/) - **Website** - Developers Org UA. Informational portal, news, blogs, forum, podcast, and more.
 - [DOU YouTube](https://www.youtube.com/@DOU_youtube) - **YouTube** - Канал DOU на YouTube.
-- [FAANG Interview](https://t.me/FaangInterview) - **Telegram** - Это украинская группа по подготовке к интервью. Цель: обсуждение вопросов по подготовке, истории c интервью, ресурсы для подготовки.
-- [FAANG Tech Interview](https://t.me/FaangTechInterview) - **Telegram** - Это украинская группа-спутник FAANG Interview. Цель группы: обсуждение алгоритмических задач.
+- [FAANG Tech Interview](https://t.me/FaangTechInterview) - **Telegram** - Українська група-супутник FAANG Interview. Ціль групи: обговорення алгоритмічних задач.
 - [IT KPI Chat](https://t.me/itkpi_flood) - **Telegram** - Чат найбільшої студенстської IT-спільноти України.
 - [IT KPI Non Tech](https://t.me/itkpi_non_tech) - **Telegram** - IT KPI, нетехнічний чат, проджект/продакт менеджери, бізнес аналітики, HR та рекрутери.
 - [Nightly IT](https://t.me/itcrowdua) - **Telegram** - Чат з різними темами про айті.
 
 ## Programming
 
-- [.NET Chat](https://t.me/dotnet_chat) - **Telegram (RUS, UKR)** - Обсуждение вопросов по C# / .NET.
+- [.NET Chat](https://t.me/dotnet_chat) - **Telegram** - Обговорення C# / .NET.
 - [CoffeeJUG](https://www.coffeejug.org/) - **Website** - Java User Group у Львові. Організовують офлайн та онлайн події.
 - [GolangUA](https://t.me/golang_ua_official) - **Telegram** - Ця спільнота є одним з каналів зв'язку Golang community в Україні.
-- [IT KPI C/C++](https://t.me/itkpi_cpp) - **Telegram** - Чат IT KPI для обсуждения С/С++.
+- [IT KPI C/C++](https://t.me/itkpi_cpp) - **Telegram** - Чат IT KPI для обговорення С/С++.
 - [IT KPI Dart](https://t.me/dart_itkpi) - **Telegram** - Чат ІТ KPI про Dart.
-- [IT KPI Go](https://t.me/itkpi_go) - **Telegram** - Чат IT KPI для розробників на базі Go.
-- [IT KPI Java](https://t.me/itkpi_java) - **Telegram** - Чат IT KPI для розробників на базі Java.
+- [IT KPI Go](https://t.me/itkpi_go) - **Telegram** - Чат IT KPI для розробників на Go.
+- [IT KPI Java](https://t.me/itkpi_java) - **Telegram** - Чат IT KPI для розробників на Java.
 - [IT KPI PHP](https://t.me/itkpi_php) - **Telegram** - Чат ІТ KPI про PHP.
 - [IT KPI Rust](https://t.me/itkpi_rust) - **Telegram** - Чат ІТ KPI про Rust.
-- [IT KPI – Python](https://t.me/itkpi_python) - **Telegram** - Чат IT KPI обговорень про всякі штуки зі світу пайтону.
+- [IT KPI – Python](https://t.me/itkpi_python) - **Telegram** - Чат IT KPI обговорень про всякі штуки зі світу Python.
 - [Java Lviv](https://www.facebook.com/groups/jug.lviv/) - **Facebook** - Facebook-спільнота Java розробників.
 - [JavaScript.Ninja](https://t.me/javascript_ninja) - **Telegram** - Чат про JavaScript та Frontend розробку.
 - [Laravel UA](https://t.me/laravel_ua) - **Telegram** - Спільнота про Laravel Framework, його складові та додатки.
