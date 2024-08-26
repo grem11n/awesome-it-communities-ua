@@ -26,7 +26,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Contents
 
-- [Awesome Ukrainian IT Communities](#awesome-ukrainian-it-communities-)
+- [Awesome Ukrainian IT Communities ](#awesome-ukrainian-it-communities-)
   - [Contents](#contents)
   - [IT in General](#it-in-general)
   - [Programming](#programming)
@@ -112,6 +112,10 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Updates rtfm.co.ua](https://t.me/rtfmcoua) - **Telegram** - Канал про DevOps і українське IT в цілому.
 - [ДевОпс Інженер](https://t.me/devopsengineer) - **Telegram** - Канал про DevOps.
 - [DevOps DOU](https://t.me/devops_dou) - **Telegram** - Канал про DevOps від DOU.
+- **@GeekOpsUA:** - Чат про DevOps, знижки на курси, сертифікацію та пошуки роботи.
+  - [Discord](https://discord.gg/jNwNr7g97F)
+  - [Telegram](https://t.me/GeekOpsUA)
+  - [YouTube](https://www.youtube.com/@GeekOpsUA)
 
 ## Hardware & Embedded
 
