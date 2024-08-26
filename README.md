@@ -1,4 +1,4 @@
-<!-- markdownlint-disable disable no-inline-html first-line-h1 -->
+<!-- markdownlint-disable no-inline-html first-line-h1 -->
 <div align="center">
  <a href="https://vshymanskyy.github.io/StandWithUkraine">
   <img width="500" height="350" src="https://raw.githubusercontent.com/grem11n/awesome-it-communities-ua/main/media/logo-ua.svg" alt="Awesome">
@@ -26,7 +26,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Contents
 
-- [Awesome Ukrainian IT Communities ](#awesome-ukrainian-it-communities-)
+- [Awesome Ukrainian IT Communities](#awesome-ukrainian-it-communities-)
   - [Contents](#contents)
   - [IT in General](#it-in-general)
   - [Programming](#programming)
@@ -100,6 +100,9 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [Design Lviv](https://www.facebook.com/groups/272786659415583) - **Facebook** - Facebook-спільнота дизайнерів.
 - [ІТ КПІ - Design](https://t.me/itkpi_design) - **Telegram** - Чат ІТ KPI про дизайн.
+- [Шрифтороби](https://www.facebook.com/groups/1865901153686620) - **Facebook** - Ця спільнота присвячена українським шрифтовикам, які створюють власний продукт.
+- [Ілюстрактор](https://www.facebook.com/groups/701029306616867) - **Facebook** - Група про ілюстрацію та ілюстраторів▬
+- [Behance Ukraine](https://www.facebook.com/groups/BehanceUkraine/) - **Facebook** - Група для показу своїх робіт з Бехансу
 
 ## DevOps
 
