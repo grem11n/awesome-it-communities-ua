@@ -1,8 +1,9 @@
+<!-- markdownlint-disable disable no-inline-html first-line-h1 -->
 <div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="https://raw.githubusercontent.com/grem11n/awesome-it-communities-ua/main/media/logo-ua.svg" alt="Awesome">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
+ <a href="https://vshymanskyy.github.io/StandWithUkraine">
+  <img width="500" height="350" src="https://raw.githubusercontent.com/grem11n/awesome-it-communities-ua/main/media/logo-ua.svg" alt="Awesome">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand with Ukraine">
+ </a>
     <div>
         <h1>
             Glory to Ukraine! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/1024px-Lesser_Coat_of_Arms_of_Ukraine.svg.png" width="20" alt="trident"/>
@@ -25,17 +26,19 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Contents
 
-- [IT in General](#it-in-general)
-- [Programming](#programming)
-- [Mobile](#mobile)
-- [Databases](#databases)
-- [Data Science (+ AI, ML)](#data-science--ai-ml)
-- [Design](#design)
-- [DevOps](#devops)
-- [Hardware & Embedded](#hardware--embedded)
-- [Open Source](#open-source)
-- [QA/QC](#qaqc)
-- [Blockchain](#blockchain)
+- [Awesome Ukrainian IT Communities](#awesome-ukrainian-it-communities-)
+  - [Contents](#contents)
+  - [IT in General](#it-in-general)
+  - [Programming](#programming)
+  - [Mobile](#mobile)
+  - [Databases](#databases)
+  - [Data Science (+ AI, ML)](#data-science--ai-ml)
+  - [Design](#design)
+  - [DevOps](#devops)
+  - [Hardware \& Embedded](#hardware--embedded)
+  - [Open Source](#open-source)
+  - [QA/QC](#qaqc)
+  - [Blockchain](#blockchain)
 
 ## IT in General
 
