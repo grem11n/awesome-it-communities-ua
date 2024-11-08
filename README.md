@@ -26,21 +26,19 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Contents
 
-- [Awesome Ukrainian IT Communities](#awesome-ukrainian-it-communities-)
-  - [Contents](#contents)
-  - [IT in General](#it-in-general)
-  - [Programming](#programming)
-  - [Mobile](#mobile)
-  - [Databases](#databases)
-  - [Data Science (+ AI, ML)](#data-science--ai-ml)
-  - [Design](#design)
-  - [DevOps](#devops)
-  - [Hardware \& Embedded](#hardware--embedded)
-  - [Open Source](#open-source)
-  - [QA/QC](#qaqc)
-  - [Blockchain](#blockchain)
+- [General Tech](#general-tech)
+- [Programming](#programming)
+- [Mobile](#mobile)
+- [Databases](#databases)
+- [Data Science (+ AI, ML)](#data-science--ai-ml)
+- [Design](#design)
+- [DevOps](#devops)
+- [Hardware \& Embedded](#hardware--embedded)
+- [Open Source](#open-source)
+- [QA/QC](#qaqc)
+- [Blockchain](#blockchain)
 
-## IT in General
+## General Tech
 
 - [DOU](https://dou.ua/) - **Website** - Developers Org UA. Informational portal, news, blogs, forum, podcast, and more.
 - [DOU YouTube](https://www.youtube.com/@DOU_youtube) - **YouTube** - Канал DOU на YouTube.
@@ -101,8 +99,8 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Design Lviv](https://www.facebook.com/groups/272786659415583) - **Facebook** - Facebook-спільнота дизайнерів.
 - [ІТ КПІ - Design](https://t.me/itkpi_design) - **Telegram** - Чат ІТ KPI про дизайн.
 - [Шрифтороби](https://www.facebook.com/groups/1865901153686620) - **Facebook** - Ця спільнота присвячена українським шрифтовикам, які створюють власний продукт.
-- [Ілюстрактор](https://www.facebook.com/groups/701029306616867) - **Facebook** - Група про ілюстрацію та ілюстраторів▬
-- [Behance Ukraine](https://www.facebook.com/groups/BehanceUkraine/) - **Facebook** - Група для показу своїх робіт з Бехансу
+- [Ілюстрактор](https://www.facebook.com/groups/701029306616867) - **Facebook** - Група про ілюстрацію та ілюстраторів.
+- [Behance Ukraine](https://www.facebook.com/groups/BehanceUkraine/) - **Facebook** - Група для показу своїх робіт з Бехансу.
 
 ## DevOps
 
@@ -115,10 +113,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Updates rtfm.co.ua](https://t.me/rtfmcoua) - **Telegram** - Канал про DevOps і українське IT в цілому.
 - [ДевОпс Інженер](https://t.me/devopsengineer) - **Telegram** - Канал про DevOps.
 - [DevOps DOU](https://t.me/devops_dou) - **Telegram** - Канал про DevOps від DOU.
-- **@GeekOpsUA:** - Чат про DevOps, знижки на курси, сертифікацію та пошуки роботи.
-  - [Discord](https://discord.gg/jNwNr7g97F)
-  - [Telegram](https://t.me/GeekOpsUA)
-  - [YouTube](https://www.youtube.com/@GeekOpsUA)
+- GeekOpsUA - **[Discord](https://discord.gg/jNwNr7g97F)**, **[Telegram](https://t.me/GeekOpsUA)**, **[YouTube](https://www.youtube.com/@GeekOpsUA)** -  Чат про DevOps, знижки на курси, сертифікацію та пошуки роботи.
 
 ## Hardware & Embedded
 
