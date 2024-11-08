@@ -1,8 +1,9 @@
+<!-- markdownlint-disable no-inline-html first-line-h1 -->
 <div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="https://raw.githubusercontent.com/grem11n/awesome-it-communities-ua/main/media/logo-ua.svg" alt="Awesome">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
+ <a href="https://vshymanskyy.github.io/StandWithUkraine">
+  <img width="500" height="350" src="https://raw.githubusercontent.com/grem11n/awesome-it-communities-ua/main/media/logo-ua.svg" alt="Awesome">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand with Ukraine">
+ </a>
     <div>
         <h1>
             Glory to Ukraine! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/1024px-Lesser_Coat_of_Arms_of_Ukraine.svg.png" width="20" alt="trident"/>
@@ -25,17 +26,19 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 ## Contents
 
-- [IT in General](#it-in-general)
-- [Programming](#programming)
-- [Mobile](#mobile)
-- [Databases](#databases)
-- [Data Science (+ AI, ML)](#data-science--ai-ml)
-- [Design](#design)
-- [DevOps](#devops)
-- [Hardware & Embedded](#hardware--embedded)
-- [Open Source](#open-source)
-- [QA/QC](#qaqc)
-- [Blockchain](#blockchain)
+- [Awesome Ukrainian IT Communities](#awesome-ukrainian-it-communities-)
+  - [Contents](#contents)
+  - [IT in General](#it-in-general)
+  - [Programming](#programming)
+  - [Mobile](#mobile)
+  - [Databases](#databases)
+  - [Data Science (+ AI, ML)](#data-science--ai-ml)
+  - [Design](#design)
+  - [DevOps](#devops)
+  - [Hardware \& Embedded](#hardware--embedded)
+  - [Open Source](#open-source)
+  - [QA/QC](#qaqc)
+  - [Blockchain](#blockchain)
 
 ## IT in General
 
@@ -97,6 +100,9 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 
 - [Design Lviv](https://www.facebook.com/groups/272786659415583) - **Facebook** - Facebook-спільнота дизайнерів.
 - [ІТ КПІ - Design](https://t.me/itkpi_design) - **Telegram** - Чат ІТ KPI про дизайн.
+- [Шрифтороби](https://www.facebook.com/groups/1865901153686620) - **Facebook** - Ця спільнота присвячена українським шрифтовикам, які створюють власний продукт.
+- [Ілюстрактор](https://www.facebook.com/groups/701029306616867) - **Facebook** - Група про ілюстрацію та ілюстраторів▬
+- [Behance Ukraine](https://www.facebook.com/groups/BehanceUkraine/) - **Facebook** - Група для показу своїх робіт з Бехансу
 
 ## DevOps
 
@@ -109,6 +115,10 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [Updates rtfm.co.ua](https://t.me/rtfmcoua) - **Telegram** - Канал про DevOps і українське IT в цілому.
 - [ДевОпс Інженер](https://t.me/devopsengineer) - **Telegram** - Канал про DevOps.
 - [DevOps DOU](https://t.me/devops_dou) - **Telegram** - Канал про DevOps від DOU.
+- **@GeekOpsUA:** - Чат про DevOps, знижки на курси, сертифікацію та пошуки роботи.
+  - [Discord](https://discord.gg/jNwNr7g97F)
+  - [Telegram](https://t.me/GeekOpsUA)
+  - [YouTube](https://www.youtube.com/@GeekOpsUA)
 
 ## Hardware & Embedded
 
